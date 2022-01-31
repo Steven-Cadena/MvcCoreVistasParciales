@@ -1,0 +1,21 @@
+﻿@model List<Coche>
+
+<table class="table table-danger">
+    <thead>
+        <tr>
+            <th>Marca</th>
+            <th>Modelo</th>
+            <th>Velocidad Máxima</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Coche car in Model) 
+        { 
+            <tr>
+                <td>@car.Marca</td>
+                <td>@car.Modelo</td>
+                <td>@car.VelocidadMaxima</td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcCoreVistasParciales", "MvcCoreVistasParciales\MvcCoreVistasParciales.csproj", "{A80D5CDD-4E43-4769-B516-2CDBBEC4985E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A80D5CDD-4E43-4769-B516-2CDBBEC4985E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A80D5CDD-4E43-4769-B516-2CDBBEC4985E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A80D5CDD-4E43-4769-B516-2CDBBEC4985E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A80D5CDD-4E43-4769-B516-2CDBBEC4985E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FD0AE9F-D968-4972-91EE-57FAD88A26AE}
+	EndGlobalSection
+EndGlobal
