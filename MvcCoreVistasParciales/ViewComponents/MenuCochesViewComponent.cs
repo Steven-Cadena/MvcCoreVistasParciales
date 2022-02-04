@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 namespace MvcCoreVistasParciales.ViewComponents
 {
     /*importante la herencia de viewcomponent*/
+    /*invokeasync está hecho para solamente al layout*/
     public class MenuCochesViewComponent:ViewComponent
     {
         private RepositoryCoches repo;
